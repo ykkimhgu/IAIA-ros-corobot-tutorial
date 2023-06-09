@@ -1,9 +1,7 @@
 
 
-# ROS & Co-Robot Tutorial for "Industrial AI & Automation"
-
-by Y.K.Kim HGU
-
+# ROS & Co-Robot Tutorial for "Industrial AI & Automation" by Y.K.Kim HGU
+> Author: H.Y.Kang, 2023
 
 
 
